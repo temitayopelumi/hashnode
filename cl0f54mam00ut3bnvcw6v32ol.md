@@ -5,7 +5,7 @@
 There's a lot of buzz about the web right now;  everyone wants to build on it; some see it as a revolution; others see it as a transition; still, others say it's just trash, and still others have no clue what it is and some know what is but don't know the difference between what we have now and what the new phase is.
 
 
-### How the Internet has evolved
+## How the Internet has evolved
 
 Web 1.0
 
