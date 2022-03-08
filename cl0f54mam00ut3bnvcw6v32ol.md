@@ -23,7 +23,7 @@ This stage of access allows for the creation, interaction, and collaboration, bu
 
 Web 2.0 development makes use of web browser technologies like AJAX and JavaScript frameworks. Hence it has an amazing user interface and experience. 
 
-We saw apps like Uber, Airbnb, Youtube, Facebook, Instagram, TikTok, Twitter, and TikTok rise to prominence. Social media networking, podcasting, and blogging also gained prominence through the app.
+We saw apps like Uber, Airbnb, Youtube, Facebook, Instagram, TikTok, Twitter rise to prominence. Social media networking, podcasting, and blogging also gained prominence through the app.
 
 
 Web 3.0
